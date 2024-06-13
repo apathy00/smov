@@ -50,7 +50,7 @@
             "passphrasePlaceholder": "passphwase",
             "submit": "Login",
             "title": "Login to your account",
-            "validationError": "Incorrect or incomplete passphwase /ᐠ. .ᐟ\\"
+            "validationError": "Incorrect or incomplete passphwase /�. .�\\"
         },
         "register": {
             "information": {
@@ -93,7 +93,7 @@
     },
     "footer": {
         "legal": {
-            "disclaimer": "Discwaimew ◝(ᵔᵕᵔ)◜",
+            "disclaimer": "Discwaimew �(ᵔᵕᵔ)◜",
             "disclaimerText": "Pwease note ^w^: uwu-flix does nyot host any OwO fiwes itsewf but instead onwy dispway's content fwom 3wd pawty pwovidews. Wegaw issues shouwd be taken up with them."
         },
         "links": {
@@ -102,7 +102,7 @@
             "github": "GitHub",
             "twitter": "Twitter"
         },
-        "tagline": "Watch youw favowite shows and movies fow fwee with nyo ads evew!!11 >w< (っ'ヮ'c)"
+        "tagline": "Watch youw favowite shows and movies fow fwee with nyo ads evew!!11 >w< (�'ヮ'c)"
     },
     "global": {
         "name": "uwu-flix",
@@ -153,25 +153,25 @@
             "day": {
                 "default": "What w-wouwd you wike t-to watch this aftewnyoon!!11",
                 "extra": [
-                    " /ᐠ>ヮ<ᐟ\\ฅ"
+                    " /�>ヮ<�\\ฅ"
                 ]
             },
             "morning": {
                 "default": "What w-wouwd you wike t-to watch this mownying?!! *walks away*",
                 "extra": [
-                    "\"૮₍ ˶•⤙•˶ ₎ა"
+                    "\"૮� ˶•⤙•˶ ��"
                 ]
             },
             "night": {
                 "default": "What w-wouwd you wike t-to watch tonyight?!!",
                 "extra": [
-                    "(づ ᴗ _ᴗ)づ♡"
+                    "(� ᴗ _ᴗ)�♡"
                 ]
             },
             "420": {
                 "default": "What w-wouwd you wike t-to watch this 4/20!? *cries*",
                 "extra": [
-                    "(づ ᴗ _ᴗ)づ♡ Weed!"
+                    "(� ᴗ _ᴗ)�♡ Weed!"
                 ]
             }
         }
@@ -200,7 +200,7 @@
         "badge": "Nyot found",
         "goHome": "Back t-to home",
         "reloadButton": "Twy again",
-        "message": "We wooked everywhere: undew the bins, in the cwoset, behind the pwoxy but uwtimatewy couwdn't find the page you awe wooking fow. (ಥ﹏ಥ)",
+        "message": "We wooked everywhere: undew the bins, in the cwoset, behind the pwoxy but uwtimatewy couwdn't find the page you awe wooking fow. (ಥ�ಥ)",
         "title": "Couwdn't find that page"
     },
     "downtimeNotice": {
@@ -227,7 +227,7 @@
             "notDetecting": "I-Instawwed on Chwome, but the site isn't detecting it?!?1 Twy wewoading the page?!?",
             "notDetectingAction": "Weowoad da page",
             "status": {
-                "disallowed": "Extension is nyot enyabwed fow this page (,,>﹏<,,)",
+                "disallowed": "Extension is nyot enyabwed fow this page (,,>�<,,)",
                 "disallowedAction": "Enyabwe extension",
                 "failed": "Faiwed t-to wequest status",
                 "loading": "Waiting fow you t-to instaww the extension",
@@ -282,7 +282,7 @@
             "short": "Back"
         },
         "casting": {
-            "enabled": "Casting t-to device 🎬"
+            "enabled": "Casting t-to device �"
         },
         "menus": {
             "downloads": {
@@ -348,7 +348,7 @@
                     "title": "Nyo embeds found"
                 },
                 "noStream": {
-                    "text": "This souwce has nyo stweams fow this movie ow (・`ω´・) show. /ᐠ - ˕ ---マ Ⳋ",
+                    "text": "This souwce has nyo stweams fow this movie ow (・`ω´・) show. /� - ˕ ---� Ⳋ",
                     "title": "No stweam :("
                 },
                 "title": "Souwces",
@@ -418,7 +418,7 @@
         "scraping": {
             "items": {
                 "failure": "Ewwow occuwwed",
-                "notFound": "Doesn't have the v-v-video (╥﹏╥)",
+                "notFound": "Doesn't have the v-v-video (╥�╥)",
                 "pending": "Checking fow videos..."
             },
             "notFound": {
@@ -434,7 +434,7 @@
                 "homeButton": "Go home",
                 "enableExtension": "Enyabwe extension",
                 "title": "Pwease enyabwe the extension",
-                "text": "You've instawwed the s-sudo-flix e-extension. To stawt u-using it, you nyeed t-to enyabwe the extension fow this site."
+                "text": "You've instawwed the s-btkflix e-extension. To stawt u-using it, you nyeed t-to enyabwe the extension fow this site."
             }
         },
         "time": {
@@ -447,14 +447,14 @@
             "description": "Pwease pwuv youw humanyity by compweting the Captcha on the wight. This is t-to k-k-keep uwu-flix safe!?",
             "error": "Faiwed t-to vewify youw humanyity?!! Pwease twy again.",
             "title": "Awe You a Wobot 🤖?",
-            "verifyingHumanity": "Vewifying youw humanyity... (^▽^)👍"
+            "verifyingHumanity": "Vewifying youw humanyity... (^▽^)�"
         }
     },
     "support": {
         "title": "Suppowt",
         "text": "uwu-flix is designyed t-to be as usew-fwiendwy as possibwe. Howevew, peopwe stiww have questions and issues. This page is h-h-hewe t-to hewp wesowve these showtcomings",
         "q1": {
-            "body": "weww, :3 you c-can join the officiaw <0>sudo-flix discowd</0> and ask questions thewe ow (・`ω´・) you c-can emaiw the onye pwovided at the bottom of this page.",
+            "body": "weww, :3 you c-can join the officiaw <0>btkflix discowd</0> and ask questions thewe ow (・`ω´・) you c-can emaiw the onye pwovided at the bottom of this page.",
             "title": "Where can I get help?"
         },
         "q2": {
@@ -465,7 +465,7 @@
     "screens": {
         "dmca": {
             "text": "Wewcome t-to uwu-flix's DMCA contact page *runs away*. If you b-bewieve youw copywighted wowk (・`ω´・) has been impwopewwy used on ouw pwatfowm (😢), pwease send a detaiwed DMCA nyotice to: <bold>dmca@example.com</bold> bewow. Pwease incwude a descwiption of the copywighted matewiaw, youw contact detaiws, and a statement of good f-faith bewief. We'we committed t-to w-wesowving these mattews pwomptwy *boops your nose* and appweciate youw coopewation.",
-            "title": "DMCA (っ◞‸◟ c)"
+            "title": "DMCA (��‸◟ c)"
         },
         "loadingApp": "W-Woading appwication",
         "loadingUser": "W-Woading youw pwofiwe",
@@ -498,7 +498,7 @@
                 "delete": {
                     "button": "Dewete account",
                     "confirmButton": "Dewete account",
-                    "confirmDescription": "Awe you suwe you w-want t-to dewete youw account!!11 Aww >w< youw data wiww be wost?!! ૮₍˶Ó﹏Ò ⑅-⑅₎ა",
+                    "confirmDescription": "Awe you suwe you w-want t-to dewete youw account!!11 Aww >w< youw data wiww be wost?!! ૮�˶Ó�Ò ⑅-⑅��",
                     "confirmTitle": "Awe you suwe?!?!",
                     "text": "This action is iwwevewsibwe. aww >w< data wiww be deweted and nyothing *runs away* c-can be wecuvwed.",
                     "title": "Dewete account"
@@ -520,7 +520,7 @@
             },
             "register": {
                 "cta": "Get stawted",
-                "text": "Shawe youw watch pwogwess between devices and k-k-keep them synced. ( ̧⸝⸝⍢⸝⸝)ෆ",
+                "text": "Shawe youw watch pwogwess between devices and k-k-keep them synced. ( ̧�����)ෆ",
                 "title": "Sync t-to the cwoud"
             },
             "title": "Account"
@@ -576,7 +576,7 @@
         },
         "preferences": {
             "language": "Appwication wanguage",
-            "languageDescription": "Wanguage appwied t-to the entiwe a-appwication, onwy Engwish has siwwy stuff 🙁.",
+            "languageDescription": "Wanguage appwied t-to the entiwe a-appwication, onwy Engwish has siwwy stuff �.",
             "thumbnail": "Genyewate thumbnyaiws",
             "thumbnailDescription": "Most of the x3 time, videos ^w^ don't have thumbnyaiws. You c-can enyabwe this setting t-to genyewate them on the fwy but they c-can make youw v-v-video swowew.",
             "thumbnailLabel": "Genyewate thumbnyaiws",

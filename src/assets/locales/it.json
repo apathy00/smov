@@ -1,26 +1,26 @@
 {
     "about": {
-        "description": "sudo-flix è un fork di movie-web che garantisce di rimanere attivo anche dopo la chiusura di movie-web.app. sudo-flix.lol funziona su un VPS privato e ospitato autonomamente. Gestisco questo sito in perdita; non ci sono annunci a causa della mia fede nei media liberi.",
+        "description": "btkflix è un fork di movie-web che garantisce di rimanere attivo anche dopo la chiusura di movie-web.app. btkflix.lol funziona su un VPS privato e ospitato autonomamente. Gestisco questo sito in perdita; non ci sono annunci a causa della mia fede nei media liberi.",
         "faqTitle": "Domande comuni",
         "q1": {
-            "body": "sudo-flix non ospita alcun contento. Quando clicci su qualcosa da guardare, sudo-flix cerca l'internet per media di vostra scelta (Sull schermata di caricamento e nell tab 'sorgenti video' si può vedere quale sorgente si sta utilizzando). I media non sono mai caricati da sudo-flix, tutto è attraverso questo meccanismo di ricerca.",
+            "body": "btkflix non ospita alcun contento. Quando clicci su qualcosa da guardare, btkflix cerca l'internet per media di vostra scelta (Sull schermata di caricamento e nell tab 'sorgenti video' si può vedere quale sorgente si sta utilizzando). I media non sono mai caricati da btkflix, tutto è attraverso questo meccanismo di ricerca.",
             "title": "Da dove arriva il contenuto?"
         },
         "q2": {
-            "body": "Non è possibile richiedere uno show o un film, sudo-flix non gestisce alcun contenuto. Tutti i contenuti sono visualizzati da sorgenti online.",
+            "body": "Non è possibile richiedere uno show o un film, btkflix non gestisce alcun contenuto. Tutti i contenuti sono visualizzati da sorgenti online.",
             "title": "Dove posso richiedere una serie o un film?"
         },
         "q3": {
             "body": "I nostri risultati sono alimentati da «The Movie Database (TMDB)» e visualizzare indipendentemente dal fatto che nostri sorgenti hanno effettivamente il contenuto.",
             "title": "I risultati di ricerca mostrano la serie o il film, perché non posso riprodurlo?"
         },
-        "title": "Su di sudo-flix (^▽^)",
+        "title": "Su di btkflix (^▽^)",
         "q4": {
             "title": "E i miei dati?",
             "body": "Tutti i dati vengono sincronizzati con il back-end sudo che è diverso dal back-end della community ed è ospitato in modo indipendente da me, chiunque è libero di utilizzare anche questo."
         },
         "q5": {
-            "body": "be', sudo-flix ha un account Twitter che può essere trovato nel fondo della pagina insieme ad un link al codice sorgente su Github.",
+            "body": "be', btkflix ha un account Twitter che può essere trovato nel fondo della pagina insieme ad un link al codice sorgente su Github.",
             "title": "Come posso sapere di più?"
         }
     },
@@ -46,7 +46,7 @@
             "passphrasePlaceholder": "Frase d'accesso",
             "submit": "Accedi",
             "title": "Accedi al tuo account",
-            "validationError": "Frase d'accesso incompleta o sbagliata /ᐠ. .ᐟ\\"
+            "validationError": "Frase d'accesso incompleta o sbagliata /�. .�\\"
         },
         "register": {
             "information": {
@@ -68,7 +68,7 @@
             "noHost": "Questo server non è configurato, quindi non puoi creare un account",
             "noHostTitle": "Server non è configurato!",
             "title": "Ti fidi di questo server?",
-            "yes": "Mi fido di questo server 🤞"
+            "yes": "Mi fido di questo server �"
         },
         "verify": {
             "description": "Inserisci la tua frase d'accesso di prima per confermare che l'hai salvata e per creare il tuo account",
@@ -89,8 +89,8 @@
     },
     "footer": {
         "legal": {
-            "disclaimer": "Disclaimer ◝(ᵔᵕᵔ)◜",
-            "disclaimerText": "Nota: sudo-flix non ospita alcun file ma visualizza solo il contenuto di fornitori di terze parti. Le questioni legali dovrebbero essere affrontate con loro."
+            "disclaimer": "Disclaimer �(ᵔᵕᵔ)◜",
+            "disclaimerText": "Nota: btkflix non ospita alcun file ma visualizza solo il contenuto di fornitori di terze parti. Le questioni legali dovrebbero essere affrontate con loro."
         },
         "links": {
             "discord": "Discord",
@@ -98,16 +98,16 @@
             "github": "GitHub",
             "twitter": "Twitter"
         },
-        "tagline": "Guarda i tuoi preferiti programmi televisivi e film gratis senza publicità! (っ'ヮ'c)"
+        "tagline": "Guarda i tuoi preferiti programmi televisivi e film gratis senza publicità! (�'ヮ'c)"
     },
     "global": {
-        "name": "sudo-flix",
+        "name": "btkflix",
         "pages": {
-            "about": "Su sudo-flix",
+            "about": "Su btkflix",
             "dmca": "DMCA",
             "login": "Accedi",
             "onboarding": "Configura",
-            "pagetitle": "{{title}} - sudo-flix",
+            "pagetitle": "{{title}} - btkflix",
             "register": "Registrati",
             "settings": "Impostazioni",
             "discover": "Scopri",
@@ -135,11 +135,11 @@
                     "Di cosa hai voglia?",
                     "Dovremmo eliminare la cronologia del browser?",
                     "Cosa vuoi trasmettere in streaming?",
-                    "Sudo-Flix è il sito migliore di sempre!",
+                    "btkflix è il sito migliore di sempre!",
                     "Cosa c'è nella tua lista oggi?",
                     "Com'è stata la tua giornata?",
                     "Colpa mia, il sito non funziona mai...",
-                    "sudo-flix non è semplicemente il migliore?",
+                    "btkflix non è semplicemente il migliore?",
                     ">ᴗ<"
                 ]
             },
@@ -160,19 +160,19 @@
             "day": {
                 "default": "Cosa vorresti guardare questo pomeriggio?",
                 "extra": [
-                    "Viva sudo-flix!"
+                    "Viva btkflix!"
                 ]
             },
             "morning": {
                 "default": "Cosa vorresti guardare questa mattina?",
                 "extra": [
-                    "Viva sudo-flix!"
+                    "Viva btkflix!"
                 ]
             },
             "night": {
                 "default": "Cosa vorresti guardare questa sera?",
                 "extra": [
-                    "Viva sudo-flix!"
+                    "Viva btkflix!"
                 ]
             },
             "420": {
@@ -196,7 +196,7 @@
             "offline": "Controlla la tua connessione internet, stupida oca! 🦢"
         },
         "menu": {
-            "about": "Su di sudo-flix",
+            "about": "Su di btkflix",
             "logout": "Esci",
             "register": "Sincronizza al sudo-cloud",
             "settings": "Impostazioni",
@@ -207,7 +207,7 @@
     "notFound": {
         "badge": "Non trovato",
         "goHome": "Torna alla pagina iniziale",
-        "message": "Abbiamo cercato ovunque: sotto i bidoni, nell'armadio, dietro il proxy, ma alla fine non siamo riusciti a trovare la pagina che stai cercando. (ಥ﹏ಥ)",
+        "message": "Abbiamo cercato ovunque: sotto i bidoni, nell'armadio, dietro il proxy, ma alla fine non siamo riusciti a trovare la pagina che stai cercando. (ಥ�ಥ)",
         "title": "Impossibile trovare quella pagina",
         "reloadButton": "Riprova"
     },
@@ -228,7 +228,7 @@
             "notDetecting": "Installato su Chrome, ma il sito non lo rileva? Prova a ricaricare la pagina!",
             "notDetectingAction": "Ricarica pagina",
             "status": {
-                "disallowed": "L'estensione non è attivata per questa pagina (,,>﹏<,,)",
+                "disallowed": "L'estensione non è attivata per questa pagina (,,>�<,,)",
                 "disallowedAction": "Attiva l'estensione",
                 "failed": "Impossibile richiedere lo stato",
                 "loading": "In attesa di installare l'estensione",
@@ -256,7 +256,7 @@
             "explainer": "Per ottenere le migliori stream possibili, è necessario scegliere il metodo di streaming da utilizzare.",
             "options": {
                 "default": {
-                    "text": "Non voglio stream di buona qualità, <0 /> <1>usa impostazione predefinita ▄︻デ══━一 ʕ•͡-•ʔ</1>"
+                    "text": "Non voglio stream di buona qualità, <0 /> <1>usa impostazione predefinita ▄︻デ���一 ʕ•͡-•ʔ</1>"
                 },
                 "extension": {
                     "action": "Installa l'estensione",
@@ -271,7 +271,7 @@
                     "title": "Proxy personalizzato"
                 }
             },
-            "title": "Configuriamo sudo-flix 🥳"
+            "title": "Configuriamo btkflix 🥳"
         }
     },
     "overlays": {
@@ -283,15 +283,15 @@
             "short": "Indietro"
         },
         "casting": {
-            "enabled": "Trasmissione al dispositivo 🎬"
+            "enabled": "Trasmissione al dispositivo �"
         },
         "menus": {
             "downloads": {
                 "copyHlsPlaylist": "Copia link playlist HLS",
-                "disclaimer": "I download vengono effettuati direttamente dal provider. sudo-flix non ha il controllo sulle modalità di fornitura dei download.",
+                "disclaimer": "I download vengono effettuati direttamente dal provider. btkflix non ha il controllo sulle modalità di fornitura dei download.",
                 "downloadSubtitle": "Scarica sottotitolo attuale",
                 "downloadVideo": "Scarica video",
-                "hlsDisclaimer": "I download vengono effettuati direttamente dal provider. sudo-flix non ha il controllo sul modo in cui vengono forniti i download.<br /><br />Tieni presente che stai scaricando una playlist HLS, <bold>non è consigliabile scaricarla se non hai familiarità con i formati di streaming avanzati</bold>. Prova diverse fonti per diversi formati.",
+                "hlsDisclaimer": "I download vengono effettuati direttamente dal provider. btkflix non ha il controllo sul modo in cui vengono forniti i download.<br /><br />Tieni presente che stai scaricando una playlist HLS, <bold>non è consigliabile scaricarla se non hai familiarità con i formati di streaming avanzati</bold>. Prova diverse fonti per diversi formati.",
                 "onAndroid": {
                     "1": "Per scaricare su Android, fai clic sul pulsante di download quindi, nella nuova pagina, <bold>tocca e tieni premuto</bold> sul video, quindi seleziona <bold>salva</bold>.",
                     "shortTitle": "Scarica / Android",
@@ -350,7 +350,7 @@
                     "title": "Nessun incorporamento trovato"
                 },
                 "noStream": {
-                    "text": "Questa fonte non ha streaming per questo film o programma. /ᐠ - ˕ -マ Ⳋ",
+                    "text": "Questa fonte non ha streaming per questo film o programma. /� - ˕ -� Ⳋ",
                     "title": "Nessuno streaming :("
                 },
                 "title": "Sorgenti",
@@ -426,12 +426,12 @@
                 "badge": "L'estensione è disabilitata",
                 "enableExtension": "Abilita l'estensione",
                 "homeButton": "Torna alla pagina iniziale",
-                "text": "Hai installato l'estensione sudo-flix. Per iniziare a usarla, devi abilitare l'estensione per questo sito.",
+                "text": "Hai installato l'estensione btkflix. Per iniziare a usarla, devi abilitare l'estensione per questo sito.",
                 "title": "Abilita l'estensione"
             },
             "items": {
                 "failure": "Si è verificato un errore",
-                "notFound": "Non ha il video (╥﹏╥)",
+                "notFound": "Non ha il video (╥�╥)",
                 "pending": "Controllo per video..."
             },
             "notFound": {
@@ -450,15 +450,15 @@
             "shortRemaining": "-{{timeLeft}}"
         },
         "turnstile": {
-            "description": "Per favore dimostra la tua umanità completando il Captcha a destra. Questo serve a mantenere sudo-flix.lol al sicuro!",
+            "description": "Per favore dimostra la tua umanità completando il Captcha a destra. Questo serve a mantenere btkflix.lol al sicuro!",
             "error": "Impossibile verificare la vostra umanità! Riprova.",
             "title": "Sei un Robot 🤖?",
-            "verifyingHumanity": "Verificando la tua umanità... (^▽^)👍"
+            "verifyingHumanity": "Verificando la tua umanità... (^▽^)�"
         }
     },
     "screens": {
         "dmca": {
-            "text": "Benvenuto nella pagina dei contatti DMCA di sudo-flix. Se ritieni che la tua opera protetta da copyright sia stata utilizzata in modo improprio sulla nostra piattaforma (😢), invia una notifica DMCA dettagliata a: <bold>{{dmca}}</bold> di seguito. Si prega di includere una descrizione del materiale protetto da copyright, i dettagli di contatto e una dichiarazione di buona fede. Ci impegniamo a risolvere tempestivamente queste questioni e apprezziamo la tua collaborazione.",
+            "text": "Benvenuto nella pagina dei contatti DMCA di btkflix. Se ritieni che la tua opera protetta da copyright sia stata utilizzata in modo improprio sulla nostra piattaforma (😢), invia una notifica DMCA dettagliata a: <bold>{{dmca}}</bold> di seguito. Si prega di includere una descrizione del materiale protetto da copyright, i dettagli di contatto e una dichiarazione di buona fede. Ci impegniamo a risolvere tempestivamente queste questioni e apprezziamo la tua collaborazione.",
             "title": "DMCA :("
         },
         "loadingApp": "Caricamento dell'applicazione",
@@ -487,7 +487,7 @@
                 "delete": {
                     "button": "Elimina l'account",
                     "confirmButton": "Elimina l'account",
-                    "confirmDescription": "Sei sicuro di voler eliminare il tuo account? Tutti i tuoi dati andranno persi! ૮₍˶Ó﹏Ò ⑅₎ა",
+                    "confirmDescription": "Sei sicuro di voler eliminare il tuo account? Tutti i tuoi dati andranno persi! ૮�˶Ó�Ò ⑅��",
                     "confirmTitle": "Sei sicuro?",
                     "text": "Questa azione è irreversibile. Tutti i dati verranno cancellati e nulla potrà essere recuperato.",
                     "title": "Elimina l'account"
@@ -509,13 +509,13 @@
             },
             "register": {
                 "cta": "Inizia",
-                "text": "Condividi i progressi dei tuoi film e serie tra dispositivi e mantienili sincronizzati. ( ̧⸝⸝⍢⸝⸝)ෆ",
+                "text": "Condividi i progressi dei tuoi film e serie tra dispositivi e mantienili sincronizzati. ( ̧�����)ෆ",
                 "title": "Sincronizza col cloud"
             },
             "title": "Account",
             "admin": {
                 "title": "Pannello di Amministrazione",
-                "text": "Utilizza strumenti realizzati per testare le condizioni di sudo-flix.",
+                "text": "Utilizza strumenti realizzati per testare le condizioni di btkflix.",
                 "button": "Controlla"
             }
         },
@@ -562,7 +562,7 @@
             "workers": {
                 "addButton": "Aggiungi nuovo lavoratore",
                 "description": "Per far funzionare l'applicazione, tutto il traffico viene instradato tramite proxy. Abilita questa opzione se vuoi portare i tuoi lavoratori. <0>Istruzioni.</0>",
-                "emptyState": "Non ci sono ancora lavoratori (｡•́︿•̀｡), aggiungine uno qui sotto",
+                "emptyState": "Non ci sono ancora lavoratori (｡•�︿•̀｡), aggiungine uno qui sotto",
                 "label": "Utilizza proxy worker personalizzati",
                 "urlLabel": "URL dei worker",
                 "urlPlaceholder": "https://"
@@ -570,7 +570,7 @@
         },
         "preferences": {
             "language": "Lingua dell'applicazione",
-            "languageDescription": "Lingua applicata all'intera applicazione, solo l'inglese contiene cose stupide 🙁.",
+            "languageDescription": "Lingua applicata all'intera applicazione, solo l'inglese contiene cose stupide �.",
             "thumbnail": "Genera miniature",
             "thumbnailDescription": "Nella maggior parte dei casi, i video non hanno miniature. Puoi abilitare questa impostazione per generarli al volo, ma possono rallentare il tuo video.",
             "thumbnailLabel": "Genera miniature",
@@ -614,14 +614,14 @@
             "title": "Come posso segnalare un bug o un problema?"
         },
         "title": "Supporto",
-        "text": "sudo-flix è progettato per essere il più intuitivo possibile. Tuttavia, le persone hanno ancora domande e problemi. Questa pagina è qui per aiutare a risolvere queste carenze",
+        "text": "btkflix è progettato per essere il più intuitivo possibile. Tuttavia, le persone hanno ancora domande e problemi. Questa pagina è qui per aiutare a risolvere queste carenze",
         "q1": {
-            "body": "Be', puoi unirti al <0>Discord di sudo-flix</0> ufficiale e porre domande lì oppure puoi inviare un'e-mail a quella fornita in fondo a questa pagina.",
+            "body": "Be', puoi unirti al <0>Discord di btkflix</0> ufficiale e porre domande lì oppure puoi inviare un'e-mail a quella fornita in fondo a questa pagina.",
             "title": "Dove posso ottenere aiuto?"
         }
     },
     "downtimeNotice": {
-        "message": "sudo-flix.lol sta riscontrando problemi con alcuni provider, se non riesci a trovare o riprodurre uno show, cambia la fonte. È previsto che questo errore persista durante i tempi indicati di seguito.",
+        "message": "btkflix.lol sta riscontrando problemi con alcuni provider, se non riesci a trovare o riprodurre uno show, cambia la fonte. È previsto che questo errore persista durante i tempi indicati di seguito.",
         "badge": "Problemi",
         "goHome": "Vai alla pagina iniziale",
         "timeFrame": "<bold>31 Marzo 5:00 - 11:00 </bold>",
